@@ -3,14 +3,14 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/blog?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false&allowPublicKeyRetrieval=true
     username: root
-    password: root
+    password: 123456
     #邮箱配置
   mail:
     host: smtp.163.com
     #邮箱
-    username: 17605058037@163.com
+    username: 13459636501@163.com
     #这里不是填登录密码，填邮箱的授权码
-    password: VSWVDGFWYLERLTEH
+    password: EAcXzGpqU9QnTVim
     port: 465
     required: true
     properties:
