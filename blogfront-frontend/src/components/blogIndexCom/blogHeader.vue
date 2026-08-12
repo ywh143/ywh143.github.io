@@ -6,7 +6,7 @@
         <li class="nav-item">
 
 
-          <img class="animate__animated" :class="{animate__swing:true}" src="public/logo.png" style="width: 75px"/>
+          <!-- <img class="animate__animated" :class="{animate__swing:true}" src="public/logo.png" style="width: 75px"/> -->
 
 
         </li>
@@ -15,7 +15,7 @@
               style="font-weight: bold;cursor: pointer"
               :class="{animate__backInRight:true}"
               @click="router.push('/')">
-            <span style="color: blue;font-size:26px">行太</span>不面对</h3>
+            <span style="color: blue;font-size:26px">在线学习</span>管理系统</h3>
         </li>
       </ul>
 
