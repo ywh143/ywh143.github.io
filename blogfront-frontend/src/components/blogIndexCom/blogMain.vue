@@ -39,7 +39,7 @@
                     background-image:-webkit-linear-gradient(left,black,black);
                     -webkit-background-clip:text;
                     -webkit-text-fill-color:transparent;"
-              class="animate__animated" :class="{animate__rubberBand:true}">行太不面对博客官网</h1>
+              class="animate__animated" :class="{animate__rubberBand:true}">在线学习管理系统博客官网</h1>
 
         </div>
         <div class="content flex" style="margin-top: 10vh;color: black">
