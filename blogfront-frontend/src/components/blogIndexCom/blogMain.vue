@@ -160,7 +160,7 @@ const imgURL = ref('@/assets/img/index-bg/img_1.png')
 store.auth.index = 0
 onMounted(() => {
       new (TypeIt)(text.value, {
-        strings: ["您好！ 欢迎来到行太不面对博客官网", "我是团队成员@ZhiXun", "请滚动滑轮往下浏览博客模块介绍"],
+        strings: ["您好！ 欢迎来到在线笔记管理系统", "我是团队成员叶文汇", "请滚动滑轮往下浏览博客模块介绍"],
         cursorChar: "<span class='cursorChar'>|<span>",//用于光标的字符。HTML也可以
         speed: 120,
         lifeLike: true,// 使打字速度不规则
